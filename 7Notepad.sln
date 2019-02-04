@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7Notepad", "7Notepad\7Notepad.csproj", "{16D5EA4E-FCAE-4FA9-B7FB-4E5A1BB9809C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D5EA4E-FCAE-4FA9-B7FB-4E5A1BB9809C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D5EA4E-FCAE-4FA9-B7FB-4E5A1BB9809C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D5EA4E-FCAE-4FA9-B7FB-4E5A1BB9809C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D5EA4E-FCAE-4FA9-B7FB-4E5A1BB9809C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
